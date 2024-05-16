@@ -1,4 +1,4 @@
 <?php
 //christian martín infantes
-echo "Hola Mundo\n";
+@print "Hola {$argv[1]}\n";
 </php>
